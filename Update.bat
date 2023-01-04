@@ -1,0 +1,1 @@
+curl -H "Content-Type: application/json" -X PATCH http://localhost:8080/item/10 -d @data.json
